@@ -26,3 +26,45 @@
 - 📱 **Телефон / Telegram:** +7 (962) 609-00-01 / [@GulnazM1101](https://t.me)
 - 📧 **Email:** gmusina@list.ru
 - 📍 **Локация:** Самара (готова к удаленной работе или офису)
+
+# 👋 Gulnaz Musina | GenAI Engineer & AI Analyst | FinTech & LegalTech Expert
+
+---
+
+## 🇬🇧 ENGLISH VERSION
+
+### 🚀 About Me
+Senior leader with **23-year experience** in banking, leasing, and B2B consulting. Currently bridging institutional finance and Generative AI, focusing on prompt engineering and **Vibe Coding** to build AI agents and automation solutions.
+
+### 🏛 Institutional Core & Financial Domain Expertise
+*   **Capital Markets Roots:** Investment career started at **Troika Dialog** (2007–2008).
+*   **Regulatory Licensing:** Holds **FSFR Series 2.0 Certificate** (Securities Trading & Clearing).
+*   **Risk & Compliance Management:** Extensive experience in financial compliance and B2B contract auditing.
+
+### 🛠 Technical Stack & GenAI Competencies
+*   **Agentic AI & Prompt Engineering:** Advanced prompt chaining, LLM context optimization.
+*   **Development:** Python, TypeScript, Cursor-assisted development.
+*   **Data:** SQL orchestration, automated ETL pipelines.
+
+### 🚀 Key GenAI Projects (Live MVPs)
+1.  ⚖ **ClickJurist** — *LegalTech Service (RANEPA Project)*
+    *   Context-aware RAG system for legal case analysis and contract drafting.
+2.  🤖 **Universal AI SQL Assistant**
+    *   Python-powered SQL database orchestration for natural language analytics.
+3.  📄 **Automated Document Generator**
+    *   Productivity workflow for document/receipt automation.
+
+### 🎓 Education & Certifications
+*   **RANEPA:** AI Tools & No-Code Automation (July 2026).
+*   **SGEA:** Master's in Economics.
+*   **FSFR:** Series 2.0 Certificate.
+
+### 📬 Contacts
+*   📱 **Telegram:** @GulnazM1101
+*   📧 **Email:** gmusina@list.ru
+*   📍 **Location:** Samara (GMT+4) | Open to Remote.
+
+---
+
+
+
